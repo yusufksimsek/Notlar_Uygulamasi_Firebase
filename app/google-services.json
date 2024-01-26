@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "212959878275",
+    "firebase_url": "https://notlaruygulamasi-b469d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "notlaruygulamasi-b469d",
+    "storage_bucket": "notlaruygulamasi-b469d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212959878275:android:cf8ac52ac7b6657a4f0fb6",
+        "android_client_info": {
+          "package_name": "com.example.notlar_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9V-WhSxG6_T4gxNmt5Ij8Hl75DYpnc8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
